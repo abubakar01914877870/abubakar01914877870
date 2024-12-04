@@ -1,120 +1,99 @@
-# GitHub Profile README Template 🎉
+# Abu Bakar Siddique | Senior SQA Engineer
 
-## How to use:
+**Location:** Dhaka, Bangladesh  
+**Telephone:** +8801914 877870  
+**Email:** abubakar01914877870@gmail.com  
 
-Copy the markdown below and update the placeholders with your personal information. Feel free to add more sections and use additional resources to reflect your style, taste and expertise. ✨
+## Professional Profile
 
-<details><summary>Toggle to see the what the completed profile looks like</summary>
-<p>
+Experienced SQA professional with a proven track record of working with developers in leading software companies. Extensive experience working with software developers, QA, business analysts, and product owners across large-scale web applications to mobile applications. Skilled in generating QA documents, training new developers, and QA about the software quality assurance process and application features. Well-versed in internal communications and can liaise with all levels of QA and developers to provide executives with the support they need to achieve business goals.
 
-# Hi there, I'm [Your Name]! 👋
+## Core Skills
 
-![Banner Image](your_banner_image_url_here)
+- API Test Automation using POSTMAN
+- Load/Performance Test using Locust Python
+- System Integration Testing
+- REST APIs/MicroService Testing
+- Ask questions and break the requirements into small pieces
+- Manual Testing web and mobile
+- Convert Business Requirements into Test Cases
+- Agile/Scrum development process
+- Create Test Documents (Test Plan, Test Report)
+- Kubernetes Pod Testing
 
-## About Me 🚀
+## Career Summary
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+### Jul 2018 - Present | Field Nation LLC, Dhaka, Bangladesh
+**Senior Software Quality Assurance Engineer**
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+**Outline:**  
+Field Nation is the leading field service marketplace that connects businesses with workers to accomplish great work. Responsible for the Field Nation Ecosystem feature quality. Field Nation supports integrating its system with many other CRM software like SalesForce, AutoTask, ServiceNow, ConnectWise, and many more. Follow standard QA practice for the Ecosystem team. Taking the initiative to make the team ready to move from manual testing to automated tests. Always ask questions to the team and myself about what we are currently doing and what we can do better.
 
-## My Skills 🧠
+**Key Responsibilities:**
+- Ask questions and break the requirements of the product as small as possible
+- Create integration and test integration between the two systems and take a close look at data flow between systems
+- Test data translation between systems
+- Write test cases for new features based on business requirements
+- Write tests for REST API
+- Run load tests against new microservices using locust
+- Work closely with the development team and test before code merges into master, check product owner requirements and validate based on that
+- Study external systems and share findings with the team
+- Review story before development and prepare test data
+- Assume development outcomes and side effects in planning time and represent to the team
+- Actively participate in regression tests
+- Determine team improvement scope and share new ideas with the team
+- Study new tools and technology then share with the team if useful
+- Test existing features, discover bugs, and feature improvement scope
+- Train new team members
+- Monitor other QA in the team and help them grow their skills
+- Check Kubernetes pod and monitor pod log
+- Help the development team to find out the root cause of the issue
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**Key Achievements:**
+- Created automated API tests for one microservice
+- Started to use the automation tests for integration field service in regression testing
+- Kept production bugs low and maintained that quality for more than two years
+- Created a solid ground to move the team from manual testing to automated testing
 
-*Replace the above skill badges with your own skills and expertise. TTo create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+### May 2016 – Mar 2017 | Amber IT Ltd, Dhaka, Bangladesh
+**Software Quality Assurance Engineer**
 
-## Featured Projects 💻
+**Outline:**  
+Involved in test activities for different projects (web-based, e-commerce, client-server applications)
 
-### [Project 1 Title](project_1_link)
+**Key Responsibilities:**
+- Created Test strategies, based on the analysis of documentation to achieve the best result
+- Analyzed requirements and developed test plans, test scenarios, and test cases
+- Executed test cases for functional, validation, end-to-end, and regression testing for Web applications
+- Analyzed applications and errors, escalated issues to developers, and verified fixes
+- Developed test summary reports for upper management
+- Testing on web applications and mobile apps
+- Testing using different browsers & multiple devices such as iOS and Android
+- Worked closely with the development team and shared defects
+- Reported defects in the Google spreadsheet
 
-![Project 1 Screenshot](project_1_screenshot_url)
+### Sep 2011 – Aug 2015 | Samsung R&D Institute Bangladesh Ltd.
+**Junior Engineer**
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Outline:**  
+Worked on SDK (Software Development Kit) testing and was a part of an immense QA team.
 
-### [Project 2 Title](project_2_link)
+**Key Responsibilities:**
+- Worked on TIZEN Platform SDK Support
+- Testing applications for mobile OS, and Smartwatch
+- Worked with Automation script
+- Managed Technical Documentation and Reporting
+- Write Test Cases
+- Identify teamwork improvement scope and share ideas
+- Found and reported defects in the JIRA system
+- Worked on single-board computers
+- Trained recruits in the team
 
-![Project 2 Screenshot](project_2_screenshot_url)
+**Key Achievements:**
+- Joined as a six-month contract employee. Proved my quality to management then extended that job for four years
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+## Education and Qualifications
 
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
-
-
-</p>
-</details> 
-
-![Copy gif](https://media.giphy.com/media/SA5uw3Td33qF4FGIlY/giphy.gif)
-## 👉🏽 Click the copy icon in the upper right hand corner below to copy the template:
-
-
-```
-# Hi there, I'm [Your Name]! 👋
-
-![Banner Image](your_banner_image_url_here)
-
-## About Me 🚀
-
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
-
-## My Skills 🧠
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
-## Featured Projects 💻
-
-### [Project 1 Title](project_1_link)
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
-
-
-
-```
-
-## Additional Resources 💡:
-- [How to create a GitHub Profile README](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
-- [Beautify your GitHub Profile README with badges, shields, stats and more](https://github.com/rzashakeri/beautify-github-profile)
-- [Explore example GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
-- [Create your GitHub Profile README automagically ✨ with this awesome app](https://www.profileme.dev/)
-- [Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [Profile README Generator](https://github.com/maurodesouza/profile-readme-generator)
-- [Explore more Profile README Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-- [Turn your GitHub Profile into a Resume](https://resume.github.io/)
-
+- **BSC in Electrical and Electronics Engineering**, CGPA—3.63—2011—IBAIS University
+- **Diploma in Electronics Engineering**, CGPA—3.33—2008—Tangail Polytechnic Institute
+- **SSC, Science**, GPA—3.75 —Tangail Shivnath High School —2004
