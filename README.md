@@ -1,99 +1,73 @@
 # Abu Bakar Siddique | Senior SQA Engineer
 
 **Location:** Dhaka, Bangladesh  
-**Telephone:** +8801914 877870  
-**Email:** abubakar01914877870@gmail.com  
+**Telephone:** +880-1914-877870  
+**Email:** abubakar01914877870@gmail.com
 
-## Professional Profile
+## Qualification Summary
 
-Experienced SQA professional with a proven track record of working with developers in leading software companies. Extensive experience working with software developers, QA, business analysts, and product owners across large-scale web applications to mobile applications. Skilled in generating QA documents, training new developers, and QA about the software quality assurance process and application features. Well-versed in internal communications and can liaise with all levels of QA and developers to provide executives with the support they need to achieve business goals.
+Experienced SQA professional with a proven track record of collaborating with developers in leading software companies. Skilled in testing methodologies, creating QA documentation, and training teams. Expertise in manual and automated testing for web and mobile applications, focusing on ensuring software quality.
 
-## Core Skills
+## Key Skills
 
-- API Test Automation using POSTMAN
-- Load/Performance Test using Locust Python
-- System Integration Testing
-- REST APIs/MicroService Testing
-- Ask questions and break the requirements into small pieces
-- Manual Testing web and mobile
-- Convert Business Requirements into Test Cases
-- Agile/Scrum development process
-- Create Test Documents (Test Plan, Test Report)
-- Kubernetes Pod Testing
+TEST AUTOMATION | API TESTING | MANUAL TESTING | QUALITY ASSURANCE
 
-## Career Summary
+- Test Automation: POSTMAN scripting, Playwright JavaScript
+- Manual Testing: Payment Gateway Testing, Offer and Promotion Validation
+- Backend API Testing
+- Documentation: Test Plans, Test Cases, Test Reports
+- Tools & Platforms: Kubernetes, Agile/Scrum
+- Soft Skills: Team Leadership, Training, Analytical Problem Solving
 
-### Jul 2018 - Present | Field Nation LLC, Dhaka, Bangladesh
-**Senior Software Quality Assurance Engineer**
+## Professional Experience
 
-**Outline:**  
-Field Nation is the leading field service marketplace that connects businesses with workers to accomplish great work. Responsible for the Field Nation Ecosystem feature quality. Field Nation supports integrating its system with many other CRM software like SalesForce, AutoTask, ServiceNow, ConnectWise, and many more. Follow standard QA practice for the Ecosystem team. Taking the initiative to make the team ready to move from manual testing to automated tests. Always ask questions to the team and myself about what we are currently doing and what we can do better.
+### Senior Test Analyst (Contractual) | May 2023 - Present
+**MVI Solutions, Dhaka, Bangladesh**
 
-**Key Responsibilities:**
-- Ask questions and break the requirements of the product as small as possible
-- Create integration and test integration between the two systems and take a close look at data flow between systems
-- Test data translation between systems
-- Write test cases for new features based on business requirements
-- Write tests for REST API
-- Run load tests against new microservices using locust
-- Work closely with the development team and test before code merges into master, check product owner requirements and validate based on that
-- Study external systems and share findings with the team
-- Review story before development and prepare test data
-- Assume development outcomes and side effects in planning time and represent to the team
-- Actively participate in regression tests
-- Determine team improvement scope and share new ideas with the team
-- Study new tools and technology then share with the team if useful
-- Test existing features, discover bugs, and feature improvement scope
-- Train new team members
-- Monitor other QA in the team and help them grow their skills
-- Check Kubernetes pod and monitor pod log
-- Help the development team to find out the root cause of the issue
+- Conducted comprehensive testing of payment-related functionalities
+- Verified and validated offers and promotions on backend API
+- Created detailed reports and presentations for stakeholders
+- Mentored junior analysts and enhanced team development
+- Designed test strategies and created automated test scripts in Postman
+- Led QA team implementation of best practices
+- Tested RESTful APIs and MicroServices
+- Performed quality control activities and defect management
+- Collaborated with Solution Architects and Developers
+- Developed and maintained automated test suites
+- Collaborated with clients to tailor solutions
 
-**Key Achievements:**
-- Created automated API tests for one microservice
-- Started to use the automation tests for integration field service in regression testing
-- Kept production bugs low and maintained that quality for more than two years
-- Created a solid ground to move the team from manual testing to automated testing
+### Senior Software Quality Assurance Engineer | July 2018 – March 2024
+**Field Nation LLC, Dhaka, Bangladesh**
 
-### May 2016 – Mar 2017 | Amber IT Ltd, Dhaka, Bangladesh
-**Software Quality Assurance Engineer**
+- Managed QA for Field Nation Ecosystem, ensuring seamless integration with CRM platforms (SalesForce, AutoTask, ServiceNow)
+- Automated API testing and conducted regression tests
+- Led transition from manual to automated testing
+- Observed data flow between systems
+- Checked data translation between systems
+- Tested Field Nation API
+- Wrote API automation tests using Postman
+- Performed comprehensive testing across various scenarios
 
-**Outline:**  
-Involved in test activities for different projects (web-based, e-commerce, client-server applications)
+### Software Quality Assurance Engineer | May 2016 – March 2017
+**Amber IT Ltd, Dhaka, Bangladesh**
 
-**Key Responsibilities:**
-- Created Test strategies, based on the analysis of documentation to achieve the best result
-- Analyzed requirements and developed test plans, test scenarios, and test cases
-- Executed test cases for functional, validation, end-to-end, and regression testing for Web applications
-- Analyzed applications and errors, escalated issues to developers, and verified fixes
-- Developed test summary reports for upper management
-- Testing on web applications and mobile apps
-- Testing using different browsers & multiple devices such as iOS and Android
-- Worked closely with the development team and shared defects
-- Reported defects in the Google spreadsheet
+- Conducted end-to-end testing for web and e-commerce applications
+- Analyzed requirements and developed test plans, scenarios, and cases
+- Executed functional, validation, and regression testing
+- Analyzed applications and errors, escalated issues to developers
+- Developed test summary reports for management
 
-### Sep 2011 – Aug 2015 | Samsung R&D Institute Bangladesh Ltd.
-**Junior Engineer**
+### Junior Engineer | September 2011 – August 2015
+**Samsung R&D Institute Bangladesh Ltd., Dhaka, Bangladesh**
 
-**Outline:**  
-Worked on SDK (Software Development Kit) testing and was a part of an immense QA team.
+- Performed TIZEN OS SDK testing for mobile OS and smartwatches
+- Worked with automation scripts and JIRA
+- Delivered technical documentation and trained recruits
 
-**Key Responsibilities:**
-- Worked on TIZEN Platform SDK Support
-- Testing applications for mobile OS, and Smartwatch
-- Worked with Automation script
-- Managed Technical Documentation and Reporting
-- Write Test Cases
-- Identify teamwork improvement scope and share ideas
-- Found and reported defects in the JIRA system
-- Worked on single-board computers
-- Trained recruits in the team
+## Education
 
-**Key Achievements:**
-- Joined as a six-month contract employee. Proved my quality to management then extended that job for four years
+**BSc in Electrical and Electronics Engineering**  
+IBAIS University, Dhaka, Bangladesh (2011)
 
-## Education and Qualifications
-
-- **BSC in Electrical and Electronics Engineering**, CGPA—3.63—2011—IBAIS University
-- **Diploma in Electronics Engineering**, CGPA—3.33—2008—Tangail Polytechnic Institute
-- **SSC, Science**, GPA—3.75 —Tangail Shivnath High School —2004
+**Diploma in Electronics Engineering**  
+Tangail Polytechnic Institute, Tangail, Bangladesh (2008)
